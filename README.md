@@ -105,14 +105,6 @@ Cyclistic-bike-share-analysis/
 │   └── Cyclistic Bike Share Analysis.pdf
 ```
 
----
-
-## 📷 Project Preview
-
-> Add screenshots of your dashboard, charts, and presentation here.
-
----
-
 ## 👨‍💻 Author
 
 **Abhi Bhardwaj**
@@ -120,7 +112,7 @@ Cyclistic-bike-share-analysis/
 Aspiring Data Analyst
 
 - GitHub: https://github.com/Abhibhardwaj02
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: https://www.linkedin.com/in/abhi-bhardwaj-660286360
 
 ---
 
